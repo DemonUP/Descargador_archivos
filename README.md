@@ -49,11 +49,7 @@ python descargador.py
 
 ---
 
-## 📜 Licencia  
-
-Este proyecto está bajo la **licencia MIT**. Puedes modificarlo y distribuirlo libremente.  
-
-📌 **Desarrollado con pasión por [Tu Nombre]** 🚀🔥  
+📌 **Desarrollado con pasión por DemonUP** 🚀🔥  
 
 ---
 
